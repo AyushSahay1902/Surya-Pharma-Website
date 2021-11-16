@@ -1,0 +1,40 @@
+/* Navigation Section  */
+#navbar{
+    flex-direction: column;
+}
+
+/* Home Section  */ 
+#Home{
+    height: 370px;
+    flex-direction:column;
+}
+#Home::before{
+    height: 280px;
+    flex-direction: column;
+}
+#Home .h-primary{
+    height: 100;
+    margin-right: -200px;
+    padding: 5px;
+    flex-direction: column;
+}
+/* Services Section   */
+.services{
+    flex-direction: column;
+}
+#services .box{
+
+
+}
+#services .box2{
+
+}
+services
+/* AboutUs section  */
+#AboutUs{
+    flex-wrap: wrap;
+}
+
+/* ContactUs Section   */
+
+/* footer    */
